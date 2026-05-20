@@ -24,12 +24,18 @@ class HomePage extends StatelessWidget {
         itemBuilder: (context, index) {
           return Card(
             child: ListTile(
+              leading: Image.asset(
+                'assets/images/turugazyou.jpg',
+                width: 60,
+                height: 60,
+                fit: BoxFit.cover,
+              ),
+
               title: Text(touristSpots[index]),
 
               onTap: () {
                 Navigator.push(
                   context,
-
                   MaterialPageRoute(
                     builder: (context) => DetailPage(
                       spotName: touristSpots[index],
