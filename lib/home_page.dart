@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:simple_navigation_mock/detail_page.dart';
+import 'package:simple_navigation_mock/favorite_page.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -30,8 +31,35 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Fukushima Navi'),
-      ),
+  title: const Text('Fukushima Navi'),
+
+  actions: [
+    IconButton(
+      icon: const Icon(Icons.star),
+
+      onPressed: () {
+        List<String> favoriteSpots = [];
+
+        for (int i = 0; i < touristSpots.length; i++) {
+          if (favorites[i]) {
+            favoriteSpots.add(
+              touristSpots[i]['name']!,
+            );
+          }
+        }
+
+        Navigator.push(
+          context,
+          MaterialPageRoute(
+            builder: (context) => FavoritePage(
+              favorites: favoriteSpots,
+            ),
+          ),
+        );
+      },
+    ),
+  ],
+),
       body: ListView.builder(
         itemCount: touristSpots.length,
         itemBuilder: (context, index) {
@@ -65,6 +93,7 @@ class _HomePageState extends State<HomePage> {
                   MaterialPageRoute(
                     builder: (context) => DetailPage(
                       spotName: touristSpots[index]['name']!,
+                      imagePath: touristSpots[index]['image']!,
                     ),
                   ),
                 );

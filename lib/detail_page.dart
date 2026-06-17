@@ -2,10 +2,12 @@ import 'package:flutter/material.dart';
 
 class DetailPage extends StatelessWidget {
   final String spotName;
+  final String imagePath;
 
   const DetailPage({
     super.key,
     required this.spotName,
+    required this.imagePath,
   });
 
   @override
@@ -14,24 +16,18 @@ class DetailPage extends StatelessWidget {
       appBar: AppBar(
         title: Text(spotName),
       ),
-
       body: Padding(
         padding: const EdgeInsets.all(16.0),
-
         child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-
           children: [
             Image.asset(
-  spotName == '鶴ヶ城'
-      ? 'assets/images/turugazyou.jpg'
-      : spotName == '大内宿'
-          ? 'assets/images/ouchijuku.jpg'
-          : 'assets/images/inawasiroko.jpg',
-  height: 200,
-),
+              imagePath,
+              height: 250,
+              width: double.infinity,
+              fit: BoxFit.cover,
+            ),
+            const SizedBox(height: 20),
 
-const SizedBox(height: 20),
             Text(
               spotName,
               style: const TextStyle(
@@ -48,8 +44,8 @@ const SizedBox(height: 20),
                   : spotName == '大内宿'
                       ? '大内宿は江戸時代の宿場町の景観が残る人気観光地です。'
                       : '猪苗代湖は日本で4番目に大きい湖で、美しい景色が楽しめます。',
-              textAlign: TextAlign.center,
               style: const TextStyle(fontSize: 18),
+              textAlign: TextAlign.center,
             ),
 
             const SizedBox(height: 30),
