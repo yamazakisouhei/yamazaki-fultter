@@ -27,80 +27,123 @@ class _HomePageState extends State<HomePage> {
 
   final List<bool> favorites = [false, false, false];
 
+  String searchText = '';
+
   @override
   Widget build(BuildContext context) {
+    final filteredSpots = touristSpots.where((spot) {
+      return spot['name']!
+          .toLowerCase()
+          .contains(searchText.toLowerCase());
+    }).toList();
+
     return Scaffold(
       appBar: AppBar(
-  title: const Text('Fukushima Navi'),
+        title: const Text('Fukushima Navi'),
+        actions: [
+          IconButton(
+            icon: Badge(
+  label: Text(
+    favorites.where((f) => f).length.toString(),
+  ),
+  child: const Icon(Icons.star),
+),
+            onPressed: () {
+              List<String> favoriteSpots = [];
 
-  actions: [
-    IconButton(
-      icon: const Icon(Icons.star),
+              for (int i = 0; i < touristSpots.length; i++) {
+                if (favorites[i]) {
+                  favoriteSpots.add(
+                    touristSpots[i]['name']!,
+                  );
+                }
+              }
 
-      onPressed: () {
-        List<String> favoriteSpots = [];
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => FavoritePage(
+                    favorites: favoriteSpots,
+                  ),
+                ),
+              );
+            },
+          ),
+        ],
+      ),
 
-        for (int i = 0; i < touristSpots.length; i++) {
-          if (favorites[i]) {
-            favoriteSpots.add(
-              touristSpots[i]['name']!,
-            );
-          }
-        }
-
-        Navigator.push(
-          context,
-          MaterialPageRoute(
-            builder: (context) => FavoritePage(
-              favorites: favoriteSpots,
+      body: Column(
+        children: [
+          Padding(
+            padding: const EdgeInsets.all(8.0),
+            child: TextField(
+              decoration: const InputDecoration(
+                hintText: '観光地を検索',
+                prefixIcon: Icon(Icons.search),
+                border: OutlineInputBorder(),
+              ),
+              onChanged: (value) {
+                setState(() {
+                  searchText = value;
+                });
+              },
             ),
           ),
-        );
-      },
-    ),
-  ],
-),
-      body: ListView.builder(
-        itemCount: touristSpots.length,
-        itemBuilder: (context, index) {
-          return Card(
-            child: ListTile(
-              leading: Image.asset(
-                touristSpots[index]['image']!,
-                width: 60,
-                height: 60,
-                fit: BoxFit.cover,
-              ),
 
-              title: Text(touristSpots[index]['name']!),
+          Expanded(
+            child: ListView.builder(
+              itemCount: filteredSpots.length,
+              itemBuilder: (context, index) {
+                final originalIndex = touristSpots.indexOf(
+                  filteredSpots[index],
+                );
 
-              trailing: IconButton(
-                icon: Icon(
-                  favorites[index]
-                      ? Icons.star
-                      : Icons.star_border,
-                ),
-                onPressed: () {
-                  setState(() {
-                    favorites[index] = !favorites[index];
-                  });
-                },
-              ),
-
-              onTap: () {
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(
-                    builder: (context) => DetailPage(
-                      spotName: touristSpots[index]['name']!,
-                      imagePath: touristSpots[index]['image']!,
+                return Card(
+                  child: ListTile(
+                    leading: Image.asset(
+                      filteredSpots[index]['image']!,
+                      width: 60,
+                      height: 60,
+                      fit: BoxFit.cover,
                     ),
+
+                    title: Text(
+                      filteredSpots[index]['name']!,
+                    ),
+
+                    trailing: IconButton(
+                      icon: Icon(
+                        favorites[originalIndex]
+                            ? Icons.star
+                            : Icons.star_border,
+                      ),
+                      onPressed: () {
+                        setState(() {
+                          favorites[originalIndex] =
+                              !favorites[originalIndex];
+                        });
+                      },
+                    ),
+
+                    onTap: () {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (context) => DetailPage(
+                            spotName:
+                                filteredSpots[index]['name']!,
+                            imagePath:
+                                filteredSpots[index]['image']!,
+                          ),
+                        ),
+                      );
+                    },
                   ),
                 );
               },
             ),
-          );
-        },
+          ),
+        ],
       ),
     );
   }
