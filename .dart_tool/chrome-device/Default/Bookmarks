@@ -1,0 +1,304 @@
+{
+   "checksum": "b115e9e779bedcfa03c11cff85870a1b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13340334864081982",
+            "date_last_used": "13423036776095033",
+            "guid": "68807299-bb3d-424b-8dd3-2ba9e8157063",
+            "id": "7",
+            "name": "ポケモン徹底攻略｜スカーレットバイオレット・ポケモンSVもお任せ！",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://yakkun.com/",
+            "visit_count": 6
+         }, {
+            "date_added": "13340335868725883",
+            "date_last_used": "13424230459732044",
+            "guid": "b2084d73-a223-4895-8192-2eb4cb22e4dc",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "雀魂 -じゃんたま-| 麻雀を無料で気軽に",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://game.mahjongsoul.com/index.html",
+            "visit_count": 89
+         }, {
+            "date_added": "13340940522522632",
+            "date_last_used": "13409301752646451",
+            "guid": "f00bb8a9-bb3a-4469-8526-2b2346ad9f89",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(1) ホーム / X",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://twitter.com/home",
+            "visit_count": 43
+         }, {
+            "date_added": "13342168614731009",
+            "date_last_used": "13404968468993323",
+            "guid": "7b7c3393-19b1-45fc-b076-be0a70961760",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(462) YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/",
+            "visit_count": 414
+         }, {
+            "date_added": "13381507954780583",
+            "date_last_used": "13419924888964030",
+            "guid": "e2234e1f-7553-4818-badc-deadf0e1baa0",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Twitch",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.twitch.tv/?lang=ja-JP",
+            "visit_count": 116
+         }, {
+            "date_added": "13402563007390648",
+            "date_last_used": "13422681883664612",
+            "guid": "bba26dc6-7cad-422e-ae19-d20b5ef77a00",
+            "id": "12",
+            "name": "アイドルマスター シャイニーカラーズ",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://shinycolors.enza.fun/tutorial",
+            "visit_count": 24
+         }, {
+            "date_added": "13382770804405524",
+            "date_last_used": "13427339702088286",
+            "guid": "69edd149-1aa9-4810-9408-3e1c0f8ab5a7",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ChatGPT",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://chatgpt.com/",
+            "visit_count": 102
+         }, {
+            "date_added": "13382776220800928",
+            "date_last_used": "13392089252429577",
+            "guid": "a2f4c82e-193a-4e6e-8963-3cce8c442088",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Perplexity",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.perplexity.ai/?login-source=floatingSignup",
+            "visit_count": 2
+         }, {
+            "date_added": "13341979063110626",
+            "date_last_used": "13417493039563218",
+            "guid": "1dea84b8-7338-4d19-8b40-2298d870ce7d",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "dokoQL",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://dokoql.jp/workspace",
+            "visit_count": 1
+         }, {
+            "date_added": "13368596062785715",
+            "date_last_used": "13381461850975200",
+            "guid": "7fec5a43-cbe9-4bee-b7fa-a3e1222dcb92",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "クリック！自立学習応援プログラム すらら",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://lms.catchon.jp/student/index.php",
+            "visit_count": 1
+         }, {
+            "date_added": "13383087229312447",
+            "date_last_used": "0",
+            "guid": "31cc6f37-c4ef-479c-9f2f-8f5b65e3d18f",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "PCゲーム・PCソフトのダウンロードなら「DLsite PCソフト」",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.dlsite.com/soft/",
+            "visit_count": 1
+         }, {
+            "date_added": "13383087238527994",
+            "date_last_used": "13394307944263958",
+            "guid": "a118ed0d-13b9-4f58-a5d7-d57e970b72ff",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "アダルトPCゲーム（エロゲー）｜FANZA GAMES",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://dlsoft.dmm.co.jp/",
+            "visit_count": 7
+         }, {
+            "date_added": "13387009058715746",
+            "date_last_used": "0",
+            "guid": "d46ae702-d5a6-48cb-9849-cf662f6c6106",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "PCゲーム・ソフトウェア - DMM GAMES",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://dlsoft.dmm.com/?_gl=1*bi77z*_gcl_au*MjQ4MjQ2Nzc3LjE3NDI1MzU0MDY.*FPAU*MjQ4MjQ2Nzc3LjE3NDI1MzU0MDY.",
+            "visit_count": 1
+         }, {
+            "date_added": "13391583111800050",
+            "date_last_used": "13395691519390940",
+            "guid": "da9d0de3-1311-4f6a-864d-43f2a0d8e578",
+            "id": "20",
+            "name": "ホーム | アドビ",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.adobe.com/home#access_token=eyJhbGciOiJSUzI1NiIsIng1dSI6Imltc19uYTEta2V5LWF0LTEuY2VyIiwia2lkIjoiaW1zX25hMS1rZXktYXQtMSIsIml0dCI6ImF0In0.eyJpZCI6IjE3NDcxMDk0OTk1ODRfZDhjYjE4ZWUtYTQwNC00MTY4LTkxOTYtMTgzYWIwZjdmMDdjX3V3MiIsInR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJjbGllbnRfaWQiOiJvY193ZWxjb21lIiwidXNlcl9pZCI6IjgwODYyMDVGNjdGN0ExQzcwQTQ5NUU5OEA0Y2ZiMjYzMTYzZGMzMDI1NDk1YzA2LmUiLCJzdGF0ZSI6IiIsImFzIjoiaW1zLW5hMSIsImFhX2lkIjoiODA4NTIwNUY2N0Y3QTFDNzBBNDk1RTk4QEFkb2JlSUQiLCJjdHAiOjAsImZnIjoiWk9IUFhLWlBGUFA1TUhVS0ZNUVZZSEFBVFE9PT09PT0iLCJzaWQiOiIxNzQ3MTA5NDk5NTc5XzYyMGViMmU2LWRiZDctNGE5Ny05OTk3LTQyZTBlYmZjMGVlNF91dzIiLCJtb2kiOiJmZTNkZDk4ZiIsInBiYSI6Ik1lZFNlY05vRVYsTG93U2VjIiwiZXhwaXJlc19pbiI6Ijg2NDAwMDAwIiwic2NvcGUiOiJBZG9iZUlELG9wZW5pZCIsImNyZWF0ZWRfYXQiOiIxNzQ3MTA5NDk5NTg0In0.Q7bOXrhiR-ChmUD1Rb7LQhDvL-WDWOeyeg3XOTwoM6X5BdY2jO1bPeBykPYc03fwBkLqsliXzk2rhvtI3Q85l51rihlCIETYfv5QIK5isVhzS3R_G6lrHQBabYh0lsU_1FH_LTWSFq4chBSAI8iwfjSemRU_75vLbrsmcOTHUuTouZRl33KeMZ0oUegfAU10_X2fW4uiio8zdukiq9LIv5Q49TscdRFuR6ybASieVCab6SICXVnxfZ5mVB8kOHW7vTp0GMds_4qa3_9zmRm0GmIzRoIA4n1OccTi_TWhDF5ND29dl1O1mndBHX9xNm5zZc8lmlj0u6EOmA-s57P1jQ&token_type=bearer&expires_in=86399997",
+            "visit_count": 4
+         }, {
+            "date_added": "13391635197044992",
+            "date_last_used": "13406712477784928",
+            "guid": "6d347faa-63c7-4b93-94ce-d26938a96502",
+            "id": "21",
+            "name": "オリジナル３Dモデル　ミルド - mirdo【超軽量】 - ragooou（らぐー） - BOOTH",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://booth.pm/ja/items/6614116",
+            "visit_count": 3
+         }, {
+            "date_added": "13391635253225900",
+            "date_last_used": "13404357838261517",
+            "guid": "88565bb6-8101-4a37-a3d1-e6a591947d70",
+            "id": "22",
+            "name": "【無料】苺佳(ichica)【オリジナル3Dモデル】 - 山野重工赤山派閥独立支部 - BOOTH",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://minto-akayama.booth.pm/items/6706674",
+            "visit_count": 2
+         }, {
+            "date_added": "13391699740840742",
+            "date_last_used": "13406715801472883",
+            "guid": "3e4b01be-af12-4244-98d1-ff3215882bc3",
+            "id": "23",
+            "name": "まめふれんず対応要素の3Dキャラクター 人気の同人グッズ9点を通販！話題のアニメやデザインから個性的で被らないアイテムが見つかる - BOOTH",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://booth.pm/ja/browse/3D%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC?q=%E3%81%BE%E3%82%81%E3%81%B5%E3%82%8C%E3%82%93%E3%81%9A%E5%AF%BE%E5%BF%9C%E8%A6%81%E7%B4%A0&sort=new&tags%5B%5D=%E3%81%BE%E3%82%81%E3%81%B5%E3%82%8C%E3%82%93%E3%81%9A",
+            "visit_count": 4
+         }, {
+            "date_added": "13425372238413076",
+            "date_last_used": "0",
+            "guid": "bcbf2edb-1b13-447e-b983-4a277509a736",
+            "id": "24",
+            "name": "サイバーセキュリティ攻守一体型演習",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ctfd.135a4bd.ierae-edu.com/challenges",
+            "visit_count": 0
+         }, {
+            "date_added": "13425531570477969",
+            "date_last_used": "13425549416522452",
+            "guid": "e9806362-9dc5-46da-b971-4fc46404ab08",
+            "id": "25",
+            "name": "専門学生のための就職活動応援サイトマッチジョブ",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://matchjobweb.jp/",
+            "visit_count": 2
+         }, {
+            "date_added": "13426055359983569",
+            "date_last_used": "0",
+            "guid": "8aabd15c-9cec-4157-9508-cc279b98a7be",
+            "id": "26",
+            "name": "株式会社ソリューションジャパン",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://soj-saiyo.snar.jp/mypage/message.aspx",
+            "visit_count": 1
+         } ],
+         "date_added": "13426151998454859",
+         "date_last_used": "0",
+         "date_modified": "13426055359983569",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "お気に入りバー",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13426151998454859",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "その他のお気に入り",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13426151998454859",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "モバイルのお気に入り",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "workspaces_v2": {
+         "children": [  ],
+         "date_added": "13426151998454859",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "75aa6670-344f-549d-b742-660f029506ab",
+         "id": "5",
+         "name": "ワークスペース",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCA2eGxufAQAAEgAqGEhVWll0aHJrYldWRjlQai9vb0tqaXc9PUgDoAYEEq0BCAwSqAEKHE5ib3NpcWI1SW5xZWwwb29naFdqUmEvV2pxUT0SJGJiYTI2ZGM2LTdjYWQtNDIyZS1hZTE5LWQyMGI1ZWY3N2EwMBgAIAAoADD9o+Wr4DM4p5PX+pUzQKeT1/qVM0ocUDJ2YkNEdWdZV1R2TTUvUWlKVVQ5bFh3RG1FPVofIh39RG9CMFJTQU9CNmhvQy8vMG80T2ozN1NDVjgwPWUvFjBtwj4CYAUSrQEICBKoAQocWG9SOWZrTGE4L0ZpOVhmbUVScVBsV053dWZNPRIkYjIwODRkNzMtYTIyMy00ODk1LTgxOTItMmViNGNiMjJlNGRjGAAgACgAMMuXmo7mMzjR2pLKrTFA0dqSyq0xShwxcDFtNzNGVUJRUnpDYlErOUw3SngwMlNhckE9Wh8iHbdWZ0FsRHVRL0k2UGpKdklHSDltdzRISXBMZkE9Zf/o7HnCPgJgBRKsAQgHEqcBChwxQnU3ZTBLMS8xMTlaNEJpU0dobXc1aVUrRlk9EiQ2ODgwNzI5OS1iYjNkLTQyNGItOGRkMy0yYmE5ZTgxNTcwNjMYACAAKAAw3t+B1eEzOJS61cmtMUCUutXJrTFKHEJWcDhBN2RLVjRERm1SMDZLYXJCTk0vLzlrTT1aHiIcb0lSNmM3cUpZaDZQSHk2MEh2N0wrV2pVVGg0PWX9kGGDwj4CYAUSrgEIEhKpAQocSEMycDMvVWxYd3k4VnRlaGxVVWo2dTdFZUJBPRIkYTExOGVkMGQtMTNiOS00ZjU4LWE1ZDctZDU3ZTk3MGI3MmZmGAAgACgAMP7fhNL2MjiF1svrzDJAhdbL68wyShxwWlJkWi9uWHNITXpTa2VtaUNZTm1lbFVnQlk9WiAiHv/9amkrTmw3VGhuZWpvRjlHTlFDNllKc21mbVdFPWVpKs1Twj4CYAUSrgEIDhKpAQocYjgxN3FrdytSdlZzalJ5WHNnVzdnZFU3a2x3PRIkYTJmNGM4MmUtMTkzYS00ZTZlLTg5NjMtM2NjZThjNDQyMDg4GAAgACgAMPbFirDuMjixpqTXyzJAsaak18syShxFTEJjelE3OXh6OUFUZTdNUTl1bTBnVWg1eXM9WiAiHv/aczlqZmdiNFlXRXVLWWdTNVVQaWtMTmNZem9nPWVVYOgDwj4CYAUSrwEIGBKqAQoccnd3MHJ5N1FUeGwrc3pqNUl3WE9OV1dEZXFNPRIkYmNiZjJlZGItMWIxMy00NDdlLWI5ODMtNGEyNzc1MDlhNzM2GAAgACgAMLLw0q7qMzjK8tKu6jNAyvLSruozShxsYWlXWS9BTXRJS2pxbmlmQkg5N01kRWRDNWs9WiEiH///9m1ESEZac1NkNVJ6U0VQUUFFY1Nwb3ZvS2FBUT1lQZChXMI+AmAFEq4BCA0SqQEKHEkzVEh4bUl0VFVFYTVqeUZKUk9lTFEwQ0p3TT0SJDY5ZWRkMTQ5LTFhYTktNDgxMC05NDA4LTNlMWMwZjhhYjVhNxgAIAAoADDHvOfY8TM479jZ1MsyQMe859jxM0oceHhTeU9kWUhZYUN4SHhES2pWd3B3eDd6SElZPVogIh7/tVpub0VVZjB4SisvYk1zNjd0Z1BDV1ZlRjBmWT1lhqXYyMI+AmAFEq4BCA8SqQEKHHpiaURObWRqZEM4aUFiSjJzWVdCdlNtSEN3ST0SJDFkZWE4NGI4LTczMzgtNGQxOS04YjQwLTIyOThkODcwY2U3ZBgAIAAoADCgj8mBzTM42qjX2bMxQNqo19mzMUocR1hrMGNORVBKSW42eW1rNVhDRDYvem5yU2lnPVogIh7/7ThQbzBRbllwQVRhOFhQOEUyMXpNT29PcmtuST1lCwz1vMI+AmAFEq8BCBUSqgEKHHd6dXpDWkVId2ZxNDMvek5EOC9jTXNkMFpEST0SJDZkMzQ3ZmFhLTYzYzctNGI5My05NGNlLWQyNjkzOGE5NjUwMhgAIAAoADDnt/3spDM476TK1+wyQO+kytfsMkocSHp4TG9WSENlQUdEczd3RWtxZUhqK0owanQ0PVohIh///7QzY09xMTRQVWlKRFRWT2dXazFsbzRJcFVEalE9Zaqd4jHCPgJgBRKuAQgTEqkBChxNUlByOUM4Vm1xQzBUTi81dzNscGFnTytXT1E9EiRkNDZhZTcwMi1kNWE2LTQ4Y2ItOTg0OS1jZjY2MmY2YzYxMDYYACAAKAAwu5PUudsyOOOV1LnbMkDjldS52zJKHDJMNkJPdW1mNjcwRm1xWkx3WmRjNVpIYkpPYz1aICIe//9pbW5tUERqYmpjOGN6MEJ6R2pIL3lOcURwZkk9ZZJXwKXCPgJgBRKuAQgUEqkBChxmV2x2eHNFVUpWYmJRb2lHODdCaG9rODBLWkk9EiRkYTlkMGRlMy0xMzExLTRmNmEtODY0ZC00M2YyYTBkOGU1NzgYACAAKAAwh83j5fsyOOC53r7sMkDgud6+7DJKHHltajQ4c3pxS1pDdmFHZnIyMzdveDNPVHdscz1aICIe//92YWZvSVRsengwbUU4MFlCU2tJZ2ZRME1rRW89ZQZxv+XCPgJgBRKvAQgZEqoBChx5TG9WdUwvUnBSeG9YZS9BUy9sWEhoZ01wQk09EiRlOTgwNjM2Mi05ZGM1LTQ2ZGEtYjk3MS00ZmM0NjQwNGFiMDgYACAAKAAwtIqRg+szOPHXz/rqM0Dx18/66jNKHHA4QnpDcU5nai93MkEyL0pMZzh6endPTVAxWT1aISIf///7M09UMmFMSG9tS1cyZ28yZXA2eG81TytjUE9FPWUAAAAAwj4CYAUSrgEIEBKpAQocKzFwd3Z2ZUlTNW1OUXBQRFNZWXM4UW44Ums0PRIkN2ZlYzVhNDMtY2JlOS00YmVlLWI3ZmEtYTNlMTIyMmRjYjkyGAAgACgAMP7CtoKxMziFitTtljJAhYrU7ZYyShx3MWhzWGdoU2hwTGY4RjR3ODRvTkI2N0xFRWc9WiAiHv/0TWM1ei9MT1dTeUs1cjB0NWRLRWtrMFdnVkVvPWWbqSTTwj4CYAUSrwEIFhKqAQocYUhJSG9JY0FIajF0Wlh4NmxGN0dtYWZ2UHBvPRIkODg1NjViYjYtODEwMS00YTM3LWEzZDEtZTZhNTkxOTQ3ZDcwGAAgACgAMKWJmoqcMzi31s3X7DJAt9bN1+wyShxkNyszY3AwcHU4ZXN6TEpTSTRJc1R1SGtDY2M9WiEiH///2nJuVEY0czNIU2tXR2E5Nm9EMGd2VkhWcFF4WT1lqp3iMcI+AmAFEo4BCAUSiQEKHHdSQnJaTCs2UEE5YXZLZ2pOUDdKWERMY2Z2cz0SJDY5NTNiNGMwLTRlN2ItNTczOS05MzVjLTUxYjlkMGFjMDU3ORgAIAAoADDU1tb6lTM4jtzW+pUzQI7c1vqVM0ocbm14NjVzUUR2eEk4VGdFZXYrQStudHRvU240PVoAZQAAAADCPgJgABKtAQgLEqgBChxzSlQ3VlRjL1J6b2NIYjZrbVI0SHd5YWZTbGs9EiRlMjIzNGUxZi03NTUzLTQ4MTgtYmFkYy1kZWFkZjBlMWJhYTAYACAAKAAwnP2SidYzOMq3w/rGMkDKt8P6xjJKHHIyWEVFb3R3YVcyaHNDZEFEcWNaQmtoemg1WT1aHyId/HlHa09nVk5CZEhDM3RDWU5rWVFSTlVCZnprQT1lp/uYEMI+AmAFEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDBiMGE1MDI4LTI5NmUtNTNiMy1hY2MxLTQyZGZiNjgwM2E3MBgAIAAoADCYjMb/9DA4w5HG//QwQMORxv/0MEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgABKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQxMDVhNGNmMy1mM2M1LTU5ZmMtYjhkMi1jYTY1NmMxMGVlOTAYACAAKAAwk4zG//QwOMuQxv/0MEDLkMb/9DBKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASrQEICRKoAQocZ3ZmOUhSRlBnSU5sa2EyZzNrZFRUYW5lektRPRIkZjAwYmI4YTktYmIzYS00NDY5LTg1MjYtMmIyMzQ2YWQ5Zjg5GAAgACgAMPCv3L+uMzjB7bvqrzFAwe276q8xShxESlI5QTRkOTRWNC9VYURzOUpUQXRwZWV3Uk09Wh8iHdtpTTFVREhXWnhpNkxOOHE1UXZVU2ZsM1R5dGs9ZT22durCPgJgBRKtAQgKEqgBChx0TzZDcnpqbjFyM2NEa2pzZlNrUXdoYXcwZkE9EiQ3YjdjMzM5My0xOWIxLTQ1ZmMtYjA3Ni1iZTBhNzA5NjE3NjAYACAAKAAwjdevrZ4zOJLZiLS0MUCS2Yi0tDFKHFFEUkx2TjU0WkRtS0t3TVBTSEpuYVpNM08xMD1aHyId9k9tRTdkQUZ3T3NpNjRibHk1K0dZYnRJNHFMaz1lQ/htgMI+AmAFEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDZjNjZiOTkxLTcyYzItNTUzMS04MmQ4LTNkMjY2M2Y4YTgwMhgAIAAoADCSjMb/9DA4rJDG//QwQKyQxv/0MEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKvAQgXEqoBChxZNzRvcEVUT1N5NkdvQmowNlNlb3JxVUZ6Q2s9EiQzZTRiMDFiZS1hZjEyLTQyNDQtOThkMS1mZjMyMTU4ODJiYzMYACAAKAAwqrDI7qQzOKjjrfbsMkCo46327DJKHElXMTJqT2lGVG5SSzJvOVJBYkMyY1Fscnl5QT1aISIf///tSnZNYTRkTWV6M09VZzZ1M1ozNkMwYjdOVGdrPWWqneIxwj4CYAUSrgEIERKpAQocQjlycGFTV25Bbk1Sd0xIUGNhaVVueE1OMTdVPRIkMzFjYzZmMzctYzRlZi00NzljLTlmMmYtOGY1YjY1ZTNkMThmGAAgACgAMJKMy+vMMjihj8vrzDJAoY/L68wyShxHTkhQWlA2a2lMeWU2eFRnNzB2azZtaUZuR3M9WiAiHv/7VFZqWGRnbVVzWUcxdVYzZmJCNXFXVjNhdzJjPWXqEw81wj4CYAUSrwEIGhKqAQocZFRqa05YUk54UXBXbXlwdVJBVXZZb2ZPaHZNPRIkOGFhYmQxNWMtOWNlYy00MTU3LTk1MDgtY2MyNzliOThhN2JlGAAgACgAMPCcsfTsMziFoLH07DNAhaCx9OwzShxwOWwwNlVSclpBbHVNQ3FPZStrUWFFeGxiVUk9WiEiH////WgwNTBab2Z2MTk0ZXQ0ajZNeEE1VjZNM3dpUT1lAAAAAMI+AmAFMAA4AA==",
+   "version": 1
+}
